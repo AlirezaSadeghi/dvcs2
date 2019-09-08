@@ -1,0 +1,5 @@
+opencv-python
+theano===0.9.0
+keras===1.1.0
+nose
+h5py
